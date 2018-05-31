@@ -28,7 +28,7 @@ For successful completion of this course, you will require the computer systems 
 <ul><li>OS: MacOS 10.12.6</li><li>Processor: Intel core i5 - 1.5Hz</li><li>Memory: 4GB</li><li>Storage: 128GB</li></ul><br>
 <b>Recommended Hardware Requirements (Macbook, iMac, Mac Mini, Mac Pro</b><br>
 For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:
-<ul><li>OS: MacOS 10.13.3</li><li>Processor: Intel core i7 - 2.5GHz</li><li>Memory: 16GB</li><li>Storage: 256GB</li><li>Software Requirements</li><li>Operating system: MacOS</li><li>Xcode 9
+<ul><li>OS: MacOS 10.13.3</li><li>Processor: Intel core i7 - 2.5GHz</li><li>Memory: 16GB</li><li>Storage: 256GB</li><li>Software Requirements</li><li>Operating system: MacOS</li><li>Xcode 9</li></ul>
 
 ## Related Products
 * [Machine Learning with Core ML in iOS 11 [Video]](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-core-ml-ios-11-video?utm_source=github&utm_medium=repository&utm_campaign=9781788620208)
