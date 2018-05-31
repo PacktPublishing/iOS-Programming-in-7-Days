@@ -23,10 +23,10 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 This course is for complete beginners who are interested in developing iOS apps, or for developers who are already programming in other languages but are fascinated by the ease of iOS development tools and Apple SDK.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-<b>Minimum Hardware Requirements (Macbook, iMac, Mac Mini, Mac Pro</b><br>
+<b>Minimum Hardware Requirements (Macbook, iMac, Mac Mini, Mac Pro)</b><br>
 For successful completion of this course, you will require the computer systems with at least the following:
 <ul><li>OS: MacOS 10.12.6</li><li>Processor: Intel core i5 - 1.5Hz</li><li>Memory: 4GB</li><li>Storage: 128GB</li></ul><br>
-<b>Recommended Hardware Requirements (Macbook, iMac, Mac Mini, Mac Pro</b><br>
+<b>Recommended Hardware Requirements (Macbook, iMac, Mac Mini, Mac Pro)</b><br>
 For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:
 <ul><li>OS: MacOS 10.13.3</li><li>Processor: Intel core i7 - 2.5GHz</li><li>Memory: 16GB</li><li>Storage: 256GB</li><li>Software Requirements</li><li>Operating system: MacOS</li><li>Xcode 9</li></ul>
 
