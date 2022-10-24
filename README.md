@@ -37,3 +37,7 @@ For an optimal experience with hands-on labs and other practical activities, we 
 
 * [Creating a Backend for iOS — Firebase [Video]](https://www.packtpub.com/application-development/creating-backend-ios-—-firebase-video?utm_source=github&utm_medium=repository&utm_campaign=9781788297455)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781789135350">https://packt.link/free-ebook/9781789135350 </a> </p>
